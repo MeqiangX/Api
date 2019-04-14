@@ -14,3 +14,7 @@
 
 ## 针对需要有外网环境的内网穿透工具
 [natapp](https://www.jianshu.com/p/1c8caf466511)
+
+
+## idea 破解
+[idea破解](https://blog.csdn.net/qq_41983010/article/details/82562975)
